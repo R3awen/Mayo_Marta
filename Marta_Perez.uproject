@@ -57,6 +57,14 @@
 		{
 			"Name": "MetaHumanRuntime",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "ActorLayerUtilities",
+			"Enabled": false
 		}
 	]
 }
